@@ -1,6 +1,7 @@
 # my_app
 
-A new Flutter project.
+- 以下のサイトを参考にflutterのアプリを作ってみた。
+`https://flutter.ctrnost.com/`
 
 ## Getting Started
 
